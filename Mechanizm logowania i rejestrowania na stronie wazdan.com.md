@@ -5,7 +5,7 @@
 * Na stronie nie istnieje aktywne konto użytkownika
 * Użytkownik znajduję się na stronie z formularzem rejestracji
 
-![test](https://i.ibb.co/S57wXCw/12345.png)
+![test](https://i.ibb.co/gFc1cQV/12345.png)
 # Przypadek 2
 ## Tytuł: Logowanie instniejącego użytkownika 
 ## Cel: Weryfikacja możliwości zalogowania się istniejącego użytkownika 
@@ -13,4 +13,4 @@
 * Na stronie istnieje aktywne konto użytkownika
 * Użytkownik znajduję się na stronie logowania
 
-![test](https://i.ibb.co/J3sdX4X/213.png)
+![test1](https://i.ibb.co/J3sdX4X/213.png)
