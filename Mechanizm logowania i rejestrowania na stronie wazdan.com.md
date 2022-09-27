@@ -21,6 +21,14 @@
 # Warunki początkowe:
 * Na stronie istnieje aktywne konto użytkownika
 * Użytkownik znajduję się na stronie logowania
-* ![wazdan3](https://i.ibb.co/8mb8LQW/Bledne-logowanie-wazdan1.png)
 
+![wazdan3](https://i.ibb.co/8mb8LQW/Bledne-logowanie-wazdan1.png)
 
+# Przypadek 4
+## Tytuł: Eksploracja strony główenj
+## Cel: Weryfikacja odnośników na stronie główenj
+# Warunki początkowe:
+* Przeglądarka internetowa z dostępem do internetu 
+* Użytkownik znajduję się na stronie głównej www.wazdan.com
+![wazdan4](https://i.ibb.co/2qfyJBK/Logo-wazdan-dol-strony.png)
+![wazdan5](https://i.ibb.co/sPx9P36/i-Gaming-Solutions-Provider-Wazdan.gif)
