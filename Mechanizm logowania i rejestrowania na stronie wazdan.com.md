@@ -30,5 +30,7 @@
 # Warunki początkowe:
 * Przeglądarka internetowa z dostępem do internetu 
 * Użytkownik znajduję się na stronie głównej www.wazdan.com
-![wazdan4](https://i.ibb.co/2qfyJBK/Logo-wazdan-dol-strony.png)
+
+![wazdan4](https://i.ibb.co/fQKM9G1/Logo-wazdan-gamingli-licences.png)
+
 ![wazdan5](https://i.ibb.co/sPx9P36/i-Gaming-Solutions-Provider-Wazdan.gif)
