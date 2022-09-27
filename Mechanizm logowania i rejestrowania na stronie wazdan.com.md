@@ -2,10 +2,11 @@
 ## Tytuł: Rejestracja nowego użytkownika na stronie www.wazdan.com
 ## Cel: Weryfikacja możliwości zarejestrowania nowego użytkownika w systemie 
 ## Warunki początkowe: 
+* Przeglądarka internetowa z dostęptem do internetu
 * Na stronie nie istnieje aktywne konto użytkownika
 * Użytkownik znajduję się na stronie z formularzem rejestracji
 
-![test](https://i.ibb.co/gFc1cQV/12345.png)
+![wazdan1](https://i.ibb.co/j6MMMvQ/rejestracja-wazdan.png)
 # Przypadek 2
 ## Tytuł: Logowanie instniejącego użytkownika 
 ## Cel: Weryfikacja możliwości zalogowania się istniejącego użytkownika 
@@ -13,4 +14,4 @@
 * Na stronie istnieje aktywne konto użytkownika
 * Użytkownik znajduję się na stronie logowania
 
-![test1](https://i.ibb.co/J3sdX4X/213.png)
+![wazdan2](https://i.ibb.co/B4b0t3X/213.png)
