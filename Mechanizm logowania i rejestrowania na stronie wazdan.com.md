@@ -4,7 +4,6 @@
 ## Warunki początkowe: 
 * Przeglądarka internetowa z dostęptem do internetu
 * Na stronie nie istnieje aktywne konto użytkownika
-* Użytkownik znajduję się na stronie z formularzem rejestracji
 
 ![wazdan1](https://i.ibb.co/j6MMMvQ/rejestracja-wazdan.png)
 # Przypadek 2
@@ -16,6 +15,12 @@
 
 ![wazdan2](https://i.ibb.co/r0JfS4f/213.png)
 
-
+# Przypadek 3 
+## Tytuł: Logowanie istniejącego użytkownika 
+## Cel: Weryfikacja możliwości zalogowania się przy niepoprawnych danych
+# Warunki początkowe:
+* Na stronie istnieje aktywne konto użytkownika
+* Użytkownik znajduję się na stronie logowania
+* ![wazdan3](https://i.ibb.co/8mb8LQW/Bledne-logowanie-wazdan1.png)
 
 
