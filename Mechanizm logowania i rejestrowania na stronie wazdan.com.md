@@ -14,4 +14,8 @@
 * Na stronie istnieje aktywne konto użytkownika
 * Użytkownik znajduję się na stronie logowania
 
-![wazdan2](https://i.ibb.co/B4b0t3X/213.png)
+![wazdan2](https://i.ibb.co/r0JfS4f/213.png)
+
+
+
+
