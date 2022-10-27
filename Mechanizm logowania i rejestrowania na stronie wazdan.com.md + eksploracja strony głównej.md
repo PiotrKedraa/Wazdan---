@@ -31,6 +31,6 @@
 * Przeglądarka internetowa z dostępem do internetu 
 * Użytkownik znajduję się na stronie głównej www.wazdan.com
 
-![wazdan4](https://freeimage.host/i/bJyxRf)
+![wazdan4](https://o.remove.bg/downloads/68451048-0bbe-4856-a7e1-cb45e6856b95/Logo-wazdan-gamingli-licences1-removebg-preview.png)
 
-![wazdan5](https://i.ibb.co/sPx9P36/i-Gaming-Solutions-Provider-Wazdan.gif](https://gfycat.com/famousinfatuatedgraywolf)
+![wazdan5](https://s4.gifyu.com/images/i-Gaming-Solutions-Provider-Wazdan.gif)
